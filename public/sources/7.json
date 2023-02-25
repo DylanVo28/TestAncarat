@@ -1,0 +1,45 @@
+{
+  "name": "Your Collection #7",
+  "description": "Remember to replace this description",
+  "image": "/img/7.png",
+  "edition": 7,
+  "date": 1677043800227,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red Demon"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Pinocchi"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Muses"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "India"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly X"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Orange Homicidal"
+    },
+    {
+      "trait_type": "Eye wear",
+      "value": "Jamaica"
+    }
+  ]
+}

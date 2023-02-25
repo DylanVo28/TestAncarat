@@ -1,0 +1,45 @@
+{
+  "name": "Your Collection #4",
+  "description": "Remember to replace this description",
+  "image": "/img/4.png",
+  "edition": 4,
+  "date": 1677043800000,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red Demon"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Red Snub"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Red Stripes"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Diligent"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly"
+    },
+    {
+      "trait_type": "Eye wear",
+      "value": "Qatar"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Green Motobike Hat"
+    }
+  ]
+}

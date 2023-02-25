@@ -1,0 +1,41 @@
+{
+  "name": "Your Collection #17",
+  "description": "Remember to replace this description",
+  "image": "/img/17.png",
+  "edition": 17,
+  "date": 1677043800972,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Red Snub"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Watch Brow Yellow White"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Exciting"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Receding Hairline"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fun"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Red Beanie"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Your Collection #18",
+  "description": "Remember to replace this description",
+  "image": "/img/18.png",
+  "edition": 18,
+  "date": 1677043801045,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Sheep"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Glance Black White"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Mad"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gruff"
+    }
+  ]
+}

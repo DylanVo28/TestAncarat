@@ -1,0 +1,45 @@
+{
+  "name": "Your Collection #16",
+  "description": "Remember to replace this description",
+  "image": "/img/16.png",
+  "edition": 16,
+  "date": 1677043800899,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Normal Snub"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Browse Black Green"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Imaginative"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Strict"
+    },
+    {
+      "trait_type": "Mustache",
+      "value": "Grey Stubble"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Grey Black Headphone"
+    }
+  ]
+}

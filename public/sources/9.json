@@ -1,0 +1,45 @@
+{
+  "name": "Your Collection #9",
+  "description": "Remember to replace this description",
+  "image": "/img/9.png",
+  "edition": 9,
+  "date": 1677043800397,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Glance Black White"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Open Minded"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Secretive X"
+    },
+    {
+      "trait_type": "Mustache",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eye wear",
+      "value": "France"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Your Collection #1",
+  "description": "Remember to replace this description",
+  "image": "/img/1.png",
+  "edition": 1,
+  "date": 1677043799774,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Normal X"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Big Black"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Funny"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dyed Hair Carrot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gracious"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Orange Homicidal"
+    },
+    {
+      "trait_type": "Eye wear",
+      "value": "White Glasses"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Yellow White Headphone"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rabbit Ear Hat"
+    }
+  ]
+}

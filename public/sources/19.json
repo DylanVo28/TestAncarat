@@ -1,0 +1,49 @@
+{
+  "name": "Your Collection #19",
+  "description": "Remember to replace this description",
+  "image": "/img/19.png",
+  "edition": 19,
+  "date": 1677043801139,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green Violet"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Normal X"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Ogle Black Red Grey Look"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Unpleasant"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jealous"
+    },
+    {
+      "trait_type": "Eye wear",
+      "value": "Finland"
+    },
+    {
+      "trait_type": "Ciga",
+      "value": "Blue Cigarette"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Brown Homburg Hat"
+    }
+  ]
+}

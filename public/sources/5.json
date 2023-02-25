@@ -1,0 +1,41 @@
+{
+  "name": "Your Collection #5",
+  "description": "Remember to replace this description",
+  "image": "/img/5.png",
+  "edition": 5,
+  "date": 1677043800087,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Denim"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Peer Black"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Careless"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Witty"
+    },
+    {
+      "trait_type": "Eye wear",
+      "value": "Korea"
+    }
+  ]
+}

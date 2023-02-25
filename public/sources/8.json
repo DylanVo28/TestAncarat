@@ -1,0 +1,45 @@
+{
+  "name": "Your Collection #8",
+  "description": "Remember to replace this description",
+  "image": "/img/8.png",
+  "edition": 8,
+  "date": 1677043800298,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Reckless"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Mix"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gracious"
+    },
+    {
+      "trait_type": "Eye wear",
+      "value": "Qatar"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Red Beanie"
+    }
+  ]
+}

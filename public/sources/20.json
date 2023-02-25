@@ -1,0 +1,41 @@
+{
+  "name": "Your Collection #20",
+  "description": "Remember to replace this description",
+  "image": "/img/20.png",
+  "edition": 20,
+  "date": 1677043801208,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green Violet"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Normal X"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Glance Black White"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Strict"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Black Grey"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Liberal"
+    },
+    {
+      "trait_type": "Eye wear",
+      "value": "Sunglasses Small"
+    }
+  ]
+}

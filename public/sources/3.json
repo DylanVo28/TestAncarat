@@ -1,0 +1,45 @@
+{
+  "name": "Your Collection #3",
+  "description": "Remember to replace this description",
+  "image": "/img/3.png",
+  "edition": 3,
+  "date": 1677043799922,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Brown"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Seafoam"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Normal Snub"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Glance Brown Red Pink"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Careless"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gruff"
+    },
+    {
+      "trait_type": "Mustache",
+      "value": "Brown Bearded"
+    },
+    {
+      "trait_type": "Eye wear",
+      "value": "Single Vision Red"
+    }
+  ]
+}

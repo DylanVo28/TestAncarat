@@ -1,0 +1,45 @@
+{
+  "name": "Your Collection #11",
+  "description": "Remember to replace this description",
+  "image": "/img/11.png",
+  "edition": 11,
+  "date": 1677043800538,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Midnight Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Denim"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Glance Black Yellow"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Rob"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fawning"
+    },
+    {
+      "trait_type": "Eye wear",
+      "value": "Corrective Lens Carot"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Dark Blue Helmet"
+    }
+  ]
+}

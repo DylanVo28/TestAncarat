@@ -1,0 +1,41 @@
+{
+  "name": "Your Collection #15",
+  "description": "Remember to replace this description",
+  "image": "/img/15.png",
+  "edition": 15,
+  "date": 1677043800831,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Carrot"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Normal Snub"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Vertical Bw"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Loyal X"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fawning"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "White Helmet"
+    }
+  ]
+}

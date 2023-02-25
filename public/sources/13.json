@@ -1,0 +1,53 @@
+{
+  "name": "Your Collection #13",
+  "description": "Remember to replace this description",
+  "image": "/img/13.png",
+  "edition": 13,
+  "date": 1677043800693,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Tool",
+      "value": "Brown Drill"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green Violet"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Pinocchi"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Regard Black Red"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Observant"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shaven"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Introverted"
+    },
+    {
+      "trait_type": "Mustache",
+      "value": "Grey Stubble"
+    },
+    {
+      "trait_type": "Eye wear",
+      "value": "Finland"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Blue Beanie"
+    }
+  ]
+}

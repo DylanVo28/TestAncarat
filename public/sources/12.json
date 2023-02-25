@@ -1,0 +1,49 @@
+{
+  "name": "Your Collection #12",
+  "description": "Remember to replace this description",
+  "image": "/img/12.png",
+  "edition": 12,
+  "date": 1677043800606,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Seafoam"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Sparrow"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Glance Blue Green White"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Silly"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Receding Hairline"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Funny"
+    },
+    {
+      "trait_type": "Mustache",
+      "value": "White Bearded"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings Cirle Gold"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Newsboy Cap"
+    }
+  ]
+}

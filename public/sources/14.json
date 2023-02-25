@@ -1,0 +1,53 @@
+{
+  "name": "Your Collection #14",
+  "description": "Remember to replace this description",
+  "image": "/img/14.png",
+  "edition": 14,
+  "date": 1677043800772,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Rooster"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Three Eyes"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Mean"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Receding Hairline Green Puple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly X"
+    },
+    {
+      "trait_type": "Eye wear",
+      "value": "Ukraina"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Blue White Headphone"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Miner's Hat Green"
+    }
+  ]
+}

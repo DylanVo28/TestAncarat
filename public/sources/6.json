@@ -1,0 +1,49 @@
+{
+  "name": "Your Collection #6",
+  "description": "Remember to replace this description",
+  "image": "/img/6.png",
+  "edition": 6,
+  "date": 1677043800154,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Midnight Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Dot"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Rooster"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Glance Brown Red Pink"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Recklessss"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Black Grey"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pessimistic"
+    },
+    {
+      "trait_type": "Eye wear",
+      "value": "Jamaica"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Red Helmet"
+    }
+  ]
+}

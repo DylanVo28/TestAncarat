@@ -1,0 +1,45 @@
+{
+  "name": "Your Collection #10",
+  "description": "Remember to replace this description",
+  "image": "/img/10.png",
+  "edition": 10,
+  "date": 1677043800475,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Midnight Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green Violet"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tears Of Blood"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Reindeer"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Talented Bw"
+    },
+    {
+      "trait_type": "Eye brow",
+      "value": "Witty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sideburns"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Optimistic"
+    },
+    {
+      "trait_type": "Eye wear",
+      "value": "Corrective Lens Carot"
+    }
+  ]
+}
