@@ -5,14 +5,14 @@ import CardContent from "@mui/material/CardContent";
 import Typography from "@mui/material/Typography";
 import { Box } from "@mui/material";
 import "./CardItem.sass";
-export default function CardItem({ name, description, image, date }) {
+export default function CardItem({ name, description, image, date, price, onClick }) {
     const stDate = new Date(date);
     const formattedDate = `${stDate.getDate()}/${
         stDate.getMonth() + 1
     }/${stDate.getFullYear()}`;
 
     return (
-        <Card sx={{ maxWidth: 345 }} className={"card-item"}>
+        <Card sx={{ maxWidth: 345 }} className={"card-item"} onClick={onClick}>
             <Box className={"card-item__media"}>
                 <CardMedia component="img" height="300" image={image} alt={name} />
             </Box>
@@ -25,6 +25,10 @@ export default function CardItem({ name, description, image, date }) {
                 <Box>
                     <Typography component={"span"}>{formattedDate}</Typography>
                 </Box>
+                <Typography component={"strong"} variant="h6">
+                    {price} TBNB
+                </Typography>
+
             </CardContent>
         </Card>
     );

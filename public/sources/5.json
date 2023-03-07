@@ -4,6 +4,7 @@
   "image": "/img/5.png",
   "edition": 5,
   "date": 1677043800087,
+  "price": 0.1,
   "attributes": [
     {
       "trait_type": "Background",
